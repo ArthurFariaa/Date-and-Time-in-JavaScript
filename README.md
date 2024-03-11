@@ -21,8 +21,8 @@ Test code for a simple button "date and time".
     <body>
 </html>
 
+
 *Código Js*
-<Javascript>
 //apenas teste de log
 console.log("Me chamo Arthur Francisco Faria","tenho 20 anos"); 
 console.log("12/09/2004");
@@ -36,7 +36,7 @@ function showDateTime() {
     dateTimeDisplay.style.display = 'block'; // Make sure the display is visible
     dateTimeDisplay.classList.add('custom-style'); // Add a custom style class if needed
 }
-</Javascript>
+
 
 *Código Css*
 /* styles.css */
