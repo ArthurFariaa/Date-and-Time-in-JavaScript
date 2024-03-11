@@ -66,3 +66,5 @@ button {
 .date-container {
     width: 25%; /* Set the desired width for the container */
 }
+
+https://github.com/ArthurFariaa/Date-and-Time-in-JavaScript
