@@ -1,0 +1,27 @@
+/* styles.css */
+#dateTimeDisplay {
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+    font-size: 20px;
+    color: #727272;
+    background-color: #e0e0e0;
+    padding: 9px;
+    border: 1px solid #dbdbdb;
+    border-radius: 17px;
+    margin-bottom: 20px;
+}
+
+/*classe, mudando a forma do botão*/
+button {
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+    font-size: 13px; 
+    color: #4b4b4b;
+    background-color: #dfdfdf;
+    padding: 10px;
+    border: 4px solid #d8d8d8;
+    border-radius: 20px; /*arrendodamento da borda do botão*/
+    margin-bottom: 20px;    
+}
+
+.date-container {
+    width: 25%; /* Set the desired width for the container */
+}
